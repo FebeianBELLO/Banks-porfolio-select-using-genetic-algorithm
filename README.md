@@ -34,23 +34,16 @@ The tools used in this project were primarily Python-based:
 ### Methods 
    - Problem Definition: Define the objective of maximizing returns and minimizing risk in a bank portfolio.
 
-   - Data Collection & Preprocessing:
-       -- Collect historical stock prices of selected banks.
-       -- Calculate daily returns and historical returns for different periods.
-       -- Normalize data for consistency.
-![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Genetic%20Algorithms...docX.png)
+   - Data Collection & Preprocessing
+   
+![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/line%20chart%201.png)
 
-  -  Genetic Algorithm Design:
-       -- Define chromosome representation (weights of stocks).
-      --  Set initial population of portfolios.
+  -  Genetic Algorithm Design: Define chromosome representation (weights of stocks),Set initial population of portfolios.
 
 -    Fitness Function: Calculate the Sharpe ratio to evaluate the portfolios' risk-return efficiency.
 
-   - Genetic Operations:
-      --  Selection: Choose the best-performing portfolios.
-        --Crossover: Combine portfolios to create new ones.
-        --Mutation: Introduce small changes to maintain diversity.
-        --Elitism: Retain the top portfolios for the next generation.
+   - Genetic Operations: Selection,Crossover and Mutation
+
 
     -Iterative Evolution: Evolve portfolios over multiple generations, selecting, crossing over, and mutating until convergence.
 
@@ -60,6 +53,7 @@ The tools used in this project were primarily Python-based:
 
     Comparison with Mean-Variance Portfolio: Compare the GA-optimized portfolio to a mean-variance portfolio for performance assessment.
 
+ 
     Conclusion: Summarize the genetic algorithm's effectiveness in optimizing portfolio allocation.
 
 This process is tailored to optimize returns and minimize risk using genetic algorithms, as you did in your study of Nigerian bank stocks.
