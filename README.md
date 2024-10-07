@@ -15,7 +15,7 @@ This analysis is for usto able to see how Genetic algorithm can help us with mor
 The Banks-Portfolio-Selection-Using-Genetic-Algorithm project aims to optimize the selection of Nigerian bank stocks to achieve the highest potential returns while managing risk. This project employs genetic algorithms (GAs), which are inspired by evolutionary processes like natural selection, to efficiently navigate and identify optimal portfolio configurations. By balancing returns and risks, this approach is designed to offer robust and data-driven financial strategies for investors.
 
 
-![Dashboard]([https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/tomato%20pizz.png](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Genetic%20Algorithms...docX.png)
+![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Genetic%20Algorithms...docX.png)
 
 
 ### Data sources 
@@ -38,7 +38,7 @@ The tools used in this project were primarily Python-based:
        -- Collect historical stock prices of selected banks.
        -- Calculate daily returns and historical returns for different periods.
        -- Normalize data for consistency.
-![Dashboard]([https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/tomato%20pizz.png](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Genetic%20Algorithms...docX.png)
+![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Genetic%20Algorithms...docX.png)
 
   -  Genetic Algorithm Design:
        -- Define chromosome representation (weights of stocks).
