@@ -72,7 +72,7 @@ This process is tailored to optimize returns and minimize risk using genetic alg
 -Portfolio Efficiency: The genetic algorithm helps identify portfolios that deliver high returns relative to the amount of risk undertaken, making them more efficient than traditional methods.
 -Sharpe Ratio Optimization: Each portfolio is assessed using the Sharpe ratio, which measures return per unit of risk, identifying which portfolio delivers the best balance of risk and reward.
 
-![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA1%20%20%204.png)
+![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Table...png)
 
 
 ### Analysis findings 
