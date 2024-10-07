@@ -92,7 +92,11 @@ This process is tailored to optimize returns and minimize risk using genetic alg
 
 - optimal allocation  Portfolio 2 from the genetic algorithm approach was found to be the most efficient, offering the highest return for the lowest level of risk, with a Sharpe ratio of 2.263, significantly outperforming the mean-variance optimized portfolio.
  ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA1%20%20%204.png)
- ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA1%20%20%204.png)
+ ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA2%20%20%205.png)
+  ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA3%20%20%206.png)
+   ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA4%20%20%20.png)
+
+
 ### Recommendations
 ---
 - Ensure adequate staffing and inventory levels on high-traffic days like November 26 and July 4. Given the peak hours at 12 PM, 1 PM, and 7 PM, focus on these times for staffing adjustments and ingredient stock.
