@@ -36,7 +36,7 @@ The tools used in this project were primarily Python-based:
    - Data Collection & Preprocessing
    
 ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/line%20chart%201.png)
-
+![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/bar%20chart%202.png)
   -  Genetic Algorithm Design: Define chromosome representation (weights of stocks),Set initial population of portfolios.
 
 -    Fitness Function: Calculate the Sharpe ratio to evaluate the portfolios' risk-return efficiency.
