@@ -72,7 +72,7 @@ This process is tailored to optimize returns and minimize risk using genetic alg
 -Portfolio Efficiency: The genetic algorithm helps identify portfolios that deliver high returns relative to the amount of risk undertaken, making them more efficient than traditional methods.
 -Sharpe Ratio Optimization: Each portfolio is assessed using the Sharpe ratio, which measures return per unit of risk, identifying which portfolio delivers the best balance of risk and reward.
 
-![Dashboard](https://github.com/FebeianBELLO/pizza-sales-insights/blob/main/The%20pizza%20Dashboard.png)
+![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA1%20%20%204.png)
 
 
 ### Analysis findings 
@@ -90,7 +90,9 @@ This process is tailored to optimize returns and minimize risk using genetic alg
     Risk: 0.0411
     Sharpe Ratio: -0.2011
 
-Superior Efficiency: Portfolio 2 from the genetic algorithm approach was found to be the most efficient, offering the highest return for the lowest level of risk, with a Sharpe ratio of 2.263, significantly outperforming the mean-variance optimized portfolio.
+- optimal allocation  Portfolio 2 from the genetic algorithm approach was found to be the most efficient, offering the highest return for the lowest level of risk, with a Sharpe ratio of 2.263, significantly outperforming the mean-variance optimized portfolio.
+ ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA1%20%20%204.png)
+ ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA1%20%20%204.png)
 ### Recommendations
 ---
 - Ensure adequate staffing and inventory levels on high-traffic days like November 26 and July 4. Given the peak hours at 12 PM, 1 PM, and 7 PM, focus on these times for staffing adjustments and ingredient stock.
