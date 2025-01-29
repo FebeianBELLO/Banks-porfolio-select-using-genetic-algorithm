@@ -95,5 +95,6 @@ This process is tailored to optimize returns and minimize risk using genetic alg
  ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA2%20%20%205.png)
   ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA3%20%20%206.png)
   ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA4.png)
-
+-percentage allocation of resources
+ ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/Ratio%20for%20allocation%20.png)
 
