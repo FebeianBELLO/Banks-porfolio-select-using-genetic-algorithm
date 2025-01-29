@@ -97,13 +97,3 @@ This process is tailored to optimize returns and minimize risk using genetic alg
   ![Dashboard](https://github.com/FebeianBELLO/Banks-porfolio-select-using-genetic-algorithm/blob/main/port%20GA4.png)
 
 
-### Recommendations
----
-- Ensure adequate staffing and inventory levels on high-traffic days like November 26 and July 4. Given the peak hours at 12 PM, 1 PM, and 7 PM, focus on these times for staffing adjustments and ingredient stock.
-- Highlight the "ckn_alfredo" pizza in marketing campaigns and promotions, considering its high sales volume. Introduce special deals or combos featuring this popular item to boost sales further.
-- Capitalize on the high sales revenue in July by launching seasonal promotions. Consider offering summer-themed pizzas or discounts during this peak month to attract more customers and increase revenue.
-- Analyze and implement strategies to boost sales on low-traffic days like December 31. Consider special New Year’s Eve promotions or limited-time offers to encourage more orders.
-- Since order volumes are higher between 12 PM and 1 PM, introduce lunch specials or discounts during these hours to attract more customers and increase order sizes.
-- Focus marketing efforts on time slots between 12 PM and 1 PM, which show consistently higher order volumes. Implement time-limited offers or happy hour deals during these periods to maximize sales.
-- Strengthen loyalty programs to encourage repeat purchases, Offer exclusive deals or early access to promotions for loyalty program members.
-- Use data insights to tailor promotions and marketing campaigns. 
